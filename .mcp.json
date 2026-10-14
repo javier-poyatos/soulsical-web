@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "divi5_soulsical": {
+      "command": "/home/javie/proyectos/divi-5-designer/agent/mcp-bridge.sh",
+      "args": [
+        "/home/javie/proyectos/divi-5-designer/dev/.env.soulsical"
+      ]
+    }
+  }
+}

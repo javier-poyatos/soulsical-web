@@ -1,0 +1,6 @@
+inbox/
+capturas/
+*.png
+__pycache__/
+*:Zone.Identifier
+.claude/settings.local.json
