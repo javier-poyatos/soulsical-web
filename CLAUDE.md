@@ -29,3 +29,6 @@ repo aparte: mejoras y fallos del plugin → su `docs/backlog.md`). El usuario e
   antes de tocar una página, get-page y comparar con el último snapshot.
 - Capturas: `~/proyectos/divi-5-designer/dev/screenshot.sh <url> <out.png> 1440 <alto> 900` con
   `SHOT_CSS='.et_pb_section_0{height:903px}.et_pb_image{opacity:1;transform:none}'` (el 100vh de Divi está en CSS externo).
+
+## Skills
+`.claude/skills` es un enlace (fuera de git) a las skills del plugin: `ln -sfn ~/proyectos/divi-5-designer/.claude/skills .claude/skills`.

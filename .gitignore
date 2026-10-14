@@ -4,3 +4,4 @@ capturas/
 __pycache__/
 *:Zone.Identifier
 .claude/settings.local.json
+.claude/skills
